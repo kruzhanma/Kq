@@ -1,5 +1,0 @@
-admin
-root
-nullsec
-elite
-testuser
